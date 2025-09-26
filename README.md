@@ -1,0 +1,2 @@
+# -Develop-Java-Programs-Using-Autoboxing-Serialization-File-Handling
+Part A shows autoboxing and unboxing by storing integers in an ArrayList and summing them. Part B covers serialization and deserialization of a Student object to save and restore data. Part C builds a menu-driven Employee Management System using file handling to add, display, search, update, and delete employee records with data persistence.
